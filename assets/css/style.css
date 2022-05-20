@@ -1,1 +1,55 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+body .box-design {
+  padding: 10%;
+  margin-top: 50px;
+  border-radius: 10px;
+  -webkit-box-shadow: 15px 15px 10px gray;
+          box-shadow: 15px 15px 10px gray;
+}
+
+body .wlc {
+  padding: 10px;
+  margin: 20px;
+}
+
+body #transaction-area {
+  display: none;
+}
+
+body #transaction-area .deposit {
+  margin: 5px 20px;
+  padding: 20px;
+  color: white;
+  border-radius: 10px;
+  background-color: slateblue;
+  -webkit-box-shadow: 5px 5px 5px #85829a;
+          box-shadow: 5px 5px 5px #85829a;
+}
+
+body #transaction-area .withdraw {
+  margin: 5px 20px;
+  padding: 20px;
+  color: white;
+  border-radius: 10px;
+  background-color: lightsalmon;
+  -webkit-box-shadow: 5px 5px 5px #ac9389;
+          box-shadow: 5px 5px 5px #ac9389;
+}
+
+body #transaction-area .balance {
+  margin: 5px 20px;
+  padding: 20px;
+  color: white;
+  border-radius: 10px;
+  background-color: orange;
+  -webkit-box-shadow: 5px 5px 5px #af9b74;
+          box-shadow: 5px 5px 5px #af9b74;
+}
+
+body #transaction-area .box-design button {
+  margin-top: 25px;
+  padding: 7.5px 15px;
+  border-radius: 7px;
+  -webkit-box-shadow: 5px 5px 5px gray;
+          box-shadow: 5px 5px 5px gray;
+}
+/*# sourceMappingURL=style.css.map */
